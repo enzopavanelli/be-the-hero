@@ -42,7 +42,7 @@ function NewIncident() {
           <img src={logo} alt="Be The Hero" />
           <h1>Cadastrar novo caso </h1>
           <p>
-            escreva o caso detalhadamente pata encontrar um herói para resolver
+            escreva o caso detalhadamente para encontrar um herói para resolver
             isso.
           </p>
           <Link className="back-link" to="/profile">
